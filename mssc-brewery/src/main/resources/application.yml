@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mssc-brewery-service
+
+server:
+  port: 8010
